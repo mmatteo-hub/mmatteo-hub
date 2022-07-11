@@ -55,6 +55,6 @@ I am Matteo Maragliano:
 
   ![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmatteo-hub&layout=compact)](https://github.com/mmatteo-hub/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmatteo-hub&layout=compact&theme=dark)](https://github.com/mmatteo-hub/github-readme-stats)
   
-  ![mmatteo-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmatteo-hub)
+  ![mmatteo-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmatteo-hub&show_icons=true&theme=dark)
