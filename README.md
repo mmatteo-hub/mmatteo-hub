@@ -15,6 +15,7 @@ I am Matteo Maragliano:
 <p align="left">
   <a href="https://github.com/mmatteo-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="mmatteo-hub" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/matteo-maragliano-1b0202234" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mmatteo-hub" height="30" width="40" /></a>
+<a href="https://t.me/Smizz99" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mmatteo-hub" height="30" width="40" />
 <a href="https://www.instagram.com/accounts/login/?next=/matteo_maragliano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmatteo-hub" height="30" width="40" /></a>
 
 ---
