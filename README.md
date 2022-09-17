@@ -53,20 +53,29 @@ I am Matteo Maragliano:
   <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub)
-  
-  <p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
 
+<p align="center"
 <a href="https://github.com/mmatteo-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmatteo-hub&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmatteo-hub&theme=noctis_minimus&layout=compact" />
 </a>
+</p>
 
-![Snake animation](https://github.com/mmatteo-hub/mmatteo-hub/blob/output/github-contribution-grid-snake.svg)
+---
+<h4 align="center">3D profile</h4>
+
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-green.svg">
+    <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+  </a>
+</p>
+
+---
 
 <h4 align="center">My contribution graph</h4>
 
 <p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=mmatteo-hub&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Github Graph" /> </p> 
+
+---
+
+![Snake animation](https://github.com/mmatteo-hub/mmatteo-hub/blob/output/github-contribution-grid-snake.svg)
