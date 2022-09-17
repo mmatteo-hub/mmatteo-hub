@@ -1,14 +1,13 @@
-### Hi there <a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25%"></a>
----
+# Hi, I'm [Matteo](https://about.me/matteomaragliano/getstarted) <a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"></a>
 
-I am Matteo Maragliano:
 - 😄 Pronouns: He/Him
 - 🇮🇹 Italy, 📍 Genoa
 - 👨🏻‍🎓 Electronic Engineer
-- 📚 Robotics Engineering
+- 📚 [Robotics Engineering](https://courses.unige.it/10635)
 - 🔭 I’m currently working on .. something cool
-- 🌱 I’m currently learning ROS and ROS2
+- 🌱 I’m currently learning ROS and ROS2, Machine Learning an some other interensting stuff
 - ⚡️ Fun facts: coffee ☕️ lover and Formula 1 🏎 fan
+
 ---
 
 🔗 &nbsp;**Connect with me**
@@ -17,6 +16,9 @@ I am Matteo Maragliano:
 <a href="https://www.linkedin.com/in/matteo-maragliano-1b0202234" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mmatteo-hub" height="30" width="40" /></a>
 <a href="https://t.me/Smizz99" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mmatteo-hub" height="30" width="40" />
 <a href="https://www.instagram.com/accounts/login/?next=/matteo_maragliano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmatteo-hub" height="30" width="40" /></a>
+<a href="mailto:mattemara99@gmail.com" >
+<img align="center" src="https://user-images.githubusercontent.com/81308076/155858753-ef1238f1-5887-4e4d-9ac2-2b0bb82836e2.png" alt="mmatteo-hub" height="40" width="40" />
+</a>  
 
 ---
 
@@ -48,9 +50,7 @@ I am Matteo Maragliano:
 
 
 ---
-
-  <summary><b>🔥&nbsp;&nbsp;My Stats</b></summary>
-  <br/>
+<summary><b>🔥&nbsp;&nbsp;My Stats</b></summary> <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub)
 
@@ -62,7 +62,7 @@ I am Matteo Maragliano:
 </p>
 
 ---
-<h4 align="center">3D profile</h4>
+<summary><b>👓&nbsp;&nbsp;3D Profile</b></summary> <br/>
 
 <p align="center">
   <a href="./profile-3d-contrib/profile-night-green.svg">
@@ -71,11 +71,11 @@ I am Matteo Maragliano:
 </p>
 
 ---
-
-<h4 align="center">My contribution graph</h4>
+<summary><b>📈&nbsp;&nbsp;Contribution graph</b></summary> <br/>
 
 <p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=mmatteo-hub&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Github Graph" /> </p> 
 
 ---
+<summary><b>🐍&nbsp;&nbsp;Snake</b></summary> <br/>
 
 ![Snake animation](https://github.com/mmatteo-hub/mmatteo-hub/blob/output/github-contribution-grid-snake.svg)
