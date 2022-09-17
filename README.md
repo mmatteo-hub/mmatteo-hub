@@ -20,7 +20,7 @@ I am Matteo Maragliano:
 
 ---
 
-<details>
+
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left"> <a href="https://angular.io" target="_blank">
@@ -45,16 +45,28 @@ I am Matteo Maragliano:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank">
   </a>
   </p>
-</details>
+
 
 ---
 
-<details>
   <summary><b>🔥&nbsp;&nbsp;My Stats</b></summary>
   <br/>
 
-  ![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmatteo-hub&layout=compact&theme=dark)](https://github.com/mmatteo-hub/github-readme-stats)
+![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub)
   
-  ![mmatteo-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmatteo-hub&show_icons=true&theme=dark)
+  <p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
+<a href="https://github.com/mmatteo-hub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmatteo-hub&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmatteo-hub&theme=noctis_minimus&layout=compact" />
+</a>
+
+![Snake animation](https://github.com/mmatteo-hub/mmatteo-hub/blob/output/github-contribution-grid-snake.svg)
+
+<h4 align="center">My contribution graph</h4>
+
+<p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=mmatteo-hub&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Github Graph" /> </p> 
