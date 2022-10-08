@@ -2,8 +2,9 @@
 
 - 😄 Pronouns: He/Him
 - 🇮🇹 Italy, 📍 Genoa
-- 👨🏻‍🎓 Electronic Engineer
-- 📚 [Robotics Engineering](https://courses.unige.it/10635)
+- 🇫🇷 France, 📍 Nantes: Erasmus + traineeship 
+- 👨🏻‍🎓 [Electronic Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor degree
+- 📚 [Robotics Engineering](https://courses.unige.it/10635) Master degree
 - 🔭 I’m currently working on .. something cool
 - 🌱 I’m currently learning ROS and ROS2, Machine Learning an some other interensting stuff
 - ⚡️ Fun facts: coffee ☕️ lover and Formula 1 🏎 fan
