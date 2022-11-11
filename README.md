@@ -8,7 +8,9 @@
 - 🔭 I’m currently working on .. something cool
 - 🌱 I’m currently learning ROS and ROS2, Machine Learning an some other interensting stuff
 - ⚡️ Fun facts: coffee ☕️ lover and Formula 1 🏎 fan
-
+---
+[![Generate Datas](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml)
+[![GitHub-Profile-3D-Contrib](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml)
 ---
 
 🔗 &nbsp;**Connect with me**
