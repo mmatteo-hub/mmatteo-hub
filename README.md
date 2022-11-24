@@ -10,16 +10,16 @@
 - ⚡️ Fun facts: coffee ☕️ lover and Formula 1 🏎 fan
 <!--
 ---
+## Repository Information
+<p align="center">
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/stargazers"><img src="https://img.shields.io/github/stars/mmatteo-hub/mmatteo-hub?color=blue" alt="Stars Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/network/members"><img src="https://img.shields.io/github/forks/mmatteo-hub/mmatteo-hub?color=blue" alt="Forks Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/issues"><img src="https://img.shields.io/github/issues/mmatteo-hub/mmatteo-hub?color=yellow" alt="Issues Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/pulls"><img src="https://img.shields.io/github/issues-pr/mmatteo-hub/mmatteo-hub?color=yellow" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/graphs/contributors"><img src="https://img.shields.io/github/contributors/mmatteo-hub/mmatteo-hub?color=green" alt="Contributors Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mmatteo-hub/mmatteo-hub?color=2b9348" alt="License Badge"/></a>
+</p
 -->
----
-[![Generate Datas](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml)
-[![GitHub-Profile-3D-Contrib](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml)
 ---
 
 🔗 &nbsp;**Connect with me**
@@ -59,10 +59,10 @@
   <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   </p>
 
----
+---  
 <summary><b>🔥&nbsp;&nbsp;My Stats</b></summary> <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub)
+![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub) [![Generate Datas](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml) [![GitHub-Profile-3D-Contrib](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml)
 
 <p align="center"
 <a href="https://github.com/mmatteo-hub">
