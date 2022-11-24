@@ -18,7 +18,7 @@
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/pulls"><img src="https://img.shields.io/github/issues-pr/mmatteo-hub/mmatteo-hub?color=yellow" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/graphs/contributors"><img src="https://img.shields.io/github/contributors/mmatteo-hub/mmatteo-hub?color=green" alt="Contributors Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mmatteo-hub/mmatteo-hub?color=2b9348" alt="License Badge"/></a>
-</p
+</p>
 -->
 ---
 
