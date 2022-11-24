@@ -3,15 +3,18 @@
 - 😄 Pronouns: He/Him
 - 🇮🇹 Italy, 📍 Genoa
 - 🇫🇷 France, 📍 Nantes: Erasmus + traineeship 
-- 👨🏻‍🎓 [Electronic Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor degree
+- 👨🏻‍🎓 [Electronics Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor degree
 - 📚 [Robotics Engineering](https://courses.unige.it/10635) Master degree
 - 🔭 I’m currently working on .. something cool
 - 🌱 I’m currently learning ROS and ROS2, Machine Learning an some other interensting stuff
 - ⚡️ Fun facts: coffee ☕️ lover and Formula 1 🏎 fan
-<!--
+
 ---
 ## Repository Information
-<p align="center">
+<a href="https://github.com/mmatteo-hub/mmatteo-hub/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mmatteo-hub/mmatteo-hub?color=2b9348" alt="License Badge"/></a>
+</p>
+
+<!-- <p align="center">
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/stargazers"><img src="https://img.shields.io/github/stars/mmatteo-hub/mmatteo-hub?color=blue" alt="Stars Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/network/members"><img src="https://img.shields.io/github/forks/mmatteo-hub/mmatteo-hub?color=blue" alt="Forks Badge"/></a>
 <a href="https://github.com/mmatteo-hub/mmatteo-hub/issues"><img src="https://img.shields.io/github/issues/mmatteo-hub/mmatteo-hub?color=yellow" alt="Issues Badge"/></a>
@@ -22,7 +25,7 @@
 -->
 ---
 
-🔗 &nbsp;**Connect with me**
+### 🔗 Connect with me
 <p align="left">
   <a href="https://github.com/mmatteo-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="mmatteo-hub" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/matteo-maragliano-1b0202234" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mmatteo-hub" height="30" width="40" /></a>
@@ -35,7 +38,7 @@
 ---
 
 
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+### 🛠️ Tools
   <br/>
   <p align="left"> 
   <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -60,7 +63,7 @@
   </p>
 
 ---  
-<summary><b>🔥&nbsp;&nbsp;My Stats</b></summary> <br/>
+### 🔥 My Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub) [![Generate Datas](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml) [![GitHub-Profile-3D-Contrib](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml)
 
@@ -72,7 +75,7 @@
 </p>
 
 ---
-<summary><b>👓&nbsp;&nbsp;3D Profile</b></summary> <br/>
+### 👓 3D Profile
 
 <p align="center">
   <a href="./profile-3d-contrib/profile-night-green.svg">
@@ -81,11 +84,11 @@
 </p>
 
 ---
-<summary><b>📈&nbsp;&nbsp;Contribution graph</b></summary> <br/>
+### 📈 Contribution graph
 
 <p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=mmatteo-hub&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Github Graph" /> </p> 
 
 ---
-<summary><b>🐍&nbsp;&nbsp;Snake</b></summary> <br/>
+### 🐍 Snake-Commit
 
 ![Snake animation](https://github.com/mmatteo-hub/mmatteo-hub/blob/output/github-contribution-grid-snake.svg)
