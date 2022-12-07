@@ -84,10 +84,11 @@
 </p>
 
 ---
+<!--
 ### 📈 Contribution graph
 
 <p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=mmatteo-hub&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Github Graph" /> </p> 
-
+-->
 ---
 ### 🐍 Snake-Commit
 
