@@ -11,7 +11,7 @@
 
 ---
 ## Repository Information
-<a href="https://github.com/mmatteo-hub/mmatteo-hub/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mmatteo-hub/mmatteo-hub?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/mmatteo-hub/mmatteo-hub/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/mmatteo-hub/mmatteo-hub?color=2b9348" alt="License Badge"/></a>
 </p>
 
 <!-- <p align="center">
