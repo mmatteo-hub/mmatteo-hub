@@ -35,33 +35,52 @@
 <img align="center" src="https://user-images.githubusercontent.com/81308076/155858753-ef1238f1-5887-4e4d-9ac2-2b0bb82836e2.png" alt="mmatteo-hub" height="40" width="40" />
 </a>  
 
+
+[![github badge](https://img.shields.io/badge/GitHub-black?style=social&logo=github)](https://github.com/mmatteo-hub)<br>
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://www.linkedin.com/in/matteo-maragliano-1b0202234)<br>
+[![telegram badge](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Smizz99)<br>
+[![instagram badge](https://img.shields.io/badge/Instagram-black?style=social&logo=instagram)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)<br>
+[![gmail badge](https://img.shields.io/badge/Gmail-black?style=social&logo=gmail)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
+
+[![github badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mmatteo-hub)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matteo-maragliano-1b0202234)
+[![telegram badge](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram)](https://t.me/Smizz99)
+[![instagram badge](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
+[![gmail badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
+[![github badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mmatteo-hub)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matteo-maragliano-1b0202234)
+[![telegram badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Smizz99)
+[![instagram badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
+[![gmail badge](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
+
 ---
 
 
 ### 🛠️ Tools
-  <br/>
-  <p align="left"> 
-  <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/index.php"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.ros.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://ubuntu.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" alt="windows" width="40" height="40"/> </a>
-  <a href="https://www.apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> </a>
-  <a href="https://www.latex-project.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
-  <a href="https://matlab.mathworks.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  </p>
-
+  [![github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://git-scm.com)
+  [![c badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.w3schools.com/c/index.php)
+  [![c++ badge](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)](https://www.w3schools.com/cpp/default.asp)
+  [![c# badge](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)](https://www.w3schools.com/cs/index.php)
+  [![ros badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
+  [![ros2 badge](https://img.shields.io/badge/ROS2-black?style=flat&logo=ros)](https://www.ros.org/)
+  [![linux badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.linux.org/)
+  [![windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/windows/)
+  [![apple badge](https://img.shields.io/badge/Apple-black?style=flat&logo=apple)](https://www.apple.com/)
+  [![latex badge](https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex)](https://www.latex-project.org/)
+  [![notion badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)](https://www.notion.so/)
+  [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
+  [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+  [![docker badge](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)](https://www.docker.com/)
+  [![python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
+  [![mysql badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)](https://www.mysql.com/)
+  [![nodejs badge](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)](https://nodejs.org/)
+  [![mongodb badge](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
+  [![react badge](https://img.shields.io/badge/React-black?style=flat&logo=react)](https://reactjs.org/)
+  [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
+  [![javascript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![zotero badge](https://img.shields.io/badge/Zotero-black?style=flat&logo=zotero)](https://www.zotero.org)
+  [![virtualbox badge](https://img.shields.io/badge/VirtualBox-black?style=flat&logo=virtualbox)](https://www.virtualbox.org)
+  
 ---  
 ### 🔥 My Stats
 
