@@ -26,35 +26,14 @@
 ---
 
 ### 🔗 Connect with me
-<p align="left">
-  <a href="https://github.com/mmatteo-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="mmatteo-hub" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/matteo-maragliano-1b0202234" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mmatteo-hub" height="30" width="40" /></a>
-<a href="https://t.me/Smizz99" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mmatteo-hub" height="30" width="40" />
-<a href="https://www.instagram.com/accounts/login/?next=/matteo_maragliano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmatteo-hub" height="30" width="40" /></a>
-<a href="mailto:mattemara99@gmail.com" >
-<img align="center" src="https://user-images.githubusercontent.com/81308076/155858753-ef1238f1-5887-4e4d-9ac2-2b0bb82836e2.png" alt="mmatteo-hub" height="40" width="40" />
-</a>  
-
-
-[![github badge](https://img.shields.io/badge/GitHub-black?style=social&logo=github)](https://github.com/mmatteo-hub)<br>
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://www.linkedin.com/in/matteo-maragliano-1b0202234)<br>
-[![telegram badge](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Smizz99)<br>
-[![instagram badge](https://img.shields.io/badge/Instagram-black?style=social&logo=instagram)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)<br>
-[![gmail badge](https://img.shields.io/badge/Gmail-black?style=social&logo=gmail)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
 
 [![github badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mmatteo-hub)
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matteo-maragliano-1b0202234)
 [![telegram badge](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram)](https://t.me/Smizz99)
 [![instagram badge](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
 [![gmail badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
-[![github badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mmatteo-hub)
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matteo-maragliano-1b0202234)
-[![telegram badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Smizz99)
-[![instagram badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
-[![gmail badge](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](https://www.instagram.com/accounts/login/?next=/matteo_maragliano/)
 
 ---
-
 
 ### 🛠️ Tools
   [![github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://git-scm.com)
@@ -86,11 +65,14 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub) [![Generate Datas](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml) [![GitHub-Profile-3D-Contrib](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml)
 
-<p align="center"
-<a href="https://github.com/mmatteo-hub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmatteo-hub&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmatteo-hub&theme=noctis_minimus&layout=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/mmatteo-hub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmatteo-hub&theme=noctis_minimus&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmatteo-hub&theme=noctis_minimus&layout=compact" />
+  </a>
+  <a href="https://github.com/mmatteo-hub">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmatteo-hub&theme=noctis_minimus" />
+  </a>
 </p>
 
 ---
@@ -108,6 +90,7 @@
 
 <p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=mmatteo-hub&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Github Graph" /> </p> 
 -->
+
 ---
 ### 🐍 Snake-Commit
 
