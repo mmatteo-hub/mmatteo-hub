@@ -80,6 +80,7 @@
 ---
 
 ### Productivity
+  [![Google Drive badge](https://img.shields.io/badge/Google%20Drive-black?style=flat&logo=google-drive)](https://drive.google.com)
   [![microsoft excel badge](https://img.shields.io/badge/Microsoft%20Excel-black?style=flat&logo=microsoft%20excel)](https://www.office.com/excel)
   [![microsoft office badge](https://img.shields.io/badge/Microsoft%20Office-black?style=flat&logo=microsoft)](https://www.office.com/)
   [![microsoft outlook badge](https://img.shields.io/badge/Microsoft%20Outlook-black?style=flat&logo=microsoft%20outlook)](https://www.office.com/outlook)
