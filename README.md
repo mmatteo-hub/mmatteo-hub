@@ -25,7 +25,7 @@
 -->
 ---
 
-### 🔗 Connect with me
+## 🔗 Connect with me
 
 [![github badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mmatteo-hub)
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matteo-maragliano-1b0202234)
@@ -35,33 +35,82 @@
 
 ---
 
-### 🛠️ Tools
+## 🛠️ Tools
+
+### Database
+  [![mongodb badge](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
+  [![mysql badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)](https://www.mysql.com/)
+  [![nodejs badge](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)](https://nodejs.org/)
+
+---
+
+### Development / Version Control
   [![github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://git-scm.com)
+  [![bash badge](https://img.shields.io/badge/Bash-black?style=flat&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+  [![clion badge](https://img.shields.io/badge/CLion-black?style=flat&logo=clion)](https://www.jetbrains.com/clion/)
+  [![colab badge](https://img.shields.io/badge/Google%20Colab-black?style=flat&logo=google-colab)](https://colab.research.google.com/)
+  [![MPLAB badge](https://img.shields.io/badge/MPLAB-black?style=flat&logo=microchip)](https://www.microchip.com/mplab)
+  [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
+  [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+  [![sublime badge](https://img.shields.io/badge/Sublime%20Text-black?style=flat&logo=sublime-text)](https://www.sublimetext.com/)
+
+---
+
+### Operating System
+  [![iOS badge](https://img.shields.io/badge/iOS-black?style=flat&logo=ios)](https://www.apple.com/ios/)
+  [![linux badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.linux.org/)
+  [![windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/windows/)
+
+---
+
+### Programming Langauges
   [![c badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.w3schools.com/c/index.php)
   [![c++ badge](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)](https://www.w3schools.com/cpp/default.asp)
   [![c# badge](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)](https://www.w3schools.com/cs/index.php)
+  [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
+  [![python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
+  [![javascript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![pddl badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=)](https://www.example.com)
+  [![pddl+ badge](https://img.shields.io/badge/PDDL+-black?style=flat&logo=)](https://www.example.com)
+  [![react badge](https://img.shields.io/badge/React-black?style=flat&logo=react)](https://reactjs.org/)
+
+---
+
+### Productivity
+  [![microsoft excel badge](https://img.shields.io/badge/Microsoft%20Excel-black?style=flat&logo=microsoft%20excel)](https://www.office.com/excel)
+  [![microsoft office badge](https://img.shields.io/badge/Microsoft%20Office-black?style=flat&logo=microsoft)](https://www.office.com/)
+  [![microsoft outlook badge](https://img.shields.io/badge/Microsoft%20Outlook-black?style=flat&logo=microsoft%20outlook)](https://www.office.com/outlook)
+  [![microsoft powerpoint badge](https://img.shields.io/badge/Microsoft%20PowerPoint-black?style=flat&logo=microsoft%20powerpoint)](https://www.office.com/powerpoint)
+  [![microsoft word badge](https://img.shields.io/badge/Microsoft%20Word-black?style=flat&logo=microsoft%20word)](https://www.office.com/word)
+  [![notion badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)](https://www.notion.so/)
+
+---
+
+### Research Tools
+  [![latex badge](https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex)](https://www.latex-project.org/)
+  [![zotero badge](https://img.shields.io/badge/Zotero-black?style=flat&logo=zotero)](https://www.zotero.org)
+
+---
+
+### Robotics Tools
   [![ros badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
   [![ros2 badge](https://img.shields.io/badge/ROS2-black?style=flat&logo=ros)](https://www.ros.org/)
-  [![linux badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.linux.org/)
-  [![windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/windows/)
-  [![apple badge](https://img.shields.io/badge/Apple-black?style=flat&logo=apple)](https://www.apple.com/)
-  [![latex badge](https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex)](https://www.latex-project.org/)
-  [![notion badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)](https://www.notion.so/)
-  [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
-  [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+
+---
+
+### Video Conferencing
+  [![Google Meet badge](https://img.shields.io/badge/Google%20Meet-black?style=flat&logo=google-meet)](https://meet.google.com/)
+  [![microsoft teams badge](https://img.shields.io/badge/Microsoft%20Teams-black?style=flat&logo=microsoft%20teams)](https://www.microsoft.com/microsoft-teams/)
+  [![Zoom badge](https://img.shields.io/badge/Zoom-black?style=flat&logo=zoom)](https://zoom.us/)
+
+---
+
+### Virtualization
   [![docker badge](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)](https://www.docker.com/)
-  [![python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
-  [![mysql badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)](https://www.mysql.com/)
-  [![nodejs badge](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)](https://nodejs.org/)
-  [![mongodb badge](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
-  [![react badge](https://img.shields.io/badge/React-black?style=flat&logo=react)](https://reactjs.org/)
-  [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
-  [![javascript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![zotero badge](https://img.shields.io/badge/Zotero-black?style=flat&logo=zotero)](https://www.zotero.org)
   [![virtualbox badge](https://img.shields.io/badge/VirtualBox-black?style=flat&logo=virtualbox)](https://www.virtualbox.org)
   
 ---  
-### 🔥 My Stats
+## 🔥 My Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=mmatteo-hub) [![Github](https://img.shields.io/github/followers/mmatteo-hub?label=Follow&style=social)](https://github.com/mmatteo-hub) [![Generate Datas](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/main.yml) [![GitHub-Profile-3D-Contrib](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/mmatteo-hub/mmatteo-hub/actions/workflows/profile-3d.yml)
 
@@ -76,7 +125,7 @@
 </p>
 
 ---
-### 👓 3D Profile
+## 👓 3D Profile
 
 <p align="center">
   <a href="./profile-3d-contrib/profile-night-green.svg">
