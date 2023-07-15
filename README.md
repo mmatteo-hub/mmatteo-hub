@@ -50,11 +50,13 @@
   [![clion badge](https://img.shields.io/badge/CLion-black?style=flat&logo=clion)](https://www.jetbrains.com/clion/)
   [![colab badge](https://img.shields.io/badge/Google%20Colab-black?style=flat&logo=google-colab)](https://colab.research.google.com/)
   [![Eclipse badge](https://img.shields.io/badge/Eclipse-black?style=flat&logo=eclipse)](https://www.eclipse.org/)
+  [![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat&logo=jupyter)](https://jupyter.org/)
   [![MPLAB badge](https://img.shields.io/badge/MPLAB-black?style=flat&logo=microchip)](https://www.microchip.com/mplab)
   [![NVIDIA badge](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia)](https://www.nvidia.com/)
   [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
-  [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+  [![simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=simulink)](https://www.mathworks.com/products/simulink.html)
   [![sublime badge](https://img.shields.io/badge/Sublime%20Text-black?style=flat&logo=sublime-text)](https://www.sublimetext.com/)
+  [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
   [![Xcode badge](https://img.shields.io/badge/Xcode-black?style=flat&logo=xcode)](https://developer.apple.com/xcode/)
   
 ---
@@ -63,6 +65,7 @@
   [![iOS badge](https://img.shields.io/badge/iOS-black?style=flat&logo=ios)](https://www.apple.com/ios/)
   [![linux badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.linux.org/)
   [![windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/windows/)
+  [![wsl badge](https://img.shields.io/badge/WSL-black?style=flat&logo=ubuntu)](https://docs.microsoft.com/en-us/windows/wsl/)
 
 ---
 
@@ -70,7 +73,9 @@
   [![c badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.w3schools.com/c/index.php)
   [![c++ badge](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)](https://www.w3schools.com/cpp/default.asp)
   [![c# badge](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)](https://www.w3schools.com/cs/index.php)
+  [![html badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
+  [![markdown badge](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
   [![python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
   [![javascript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![pddl badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=)](https://www.example.com)
@@ -81,6 +86,7 @@
 
 ### Productivity
   [![Google Drive badge](https://img.shields.io/badge/Google%20Drive-black?style=flat&logo=google-drive)](https://drive.google.com)
+  [![Keynote badge](https://img.shields.io/badge/Keynote-black?style=flat&logo=keynote)](https://www.apple.com/keynote/)
   [![microsoft excel badge](https://img.shields.io/badge/Microsoft%20Excel-black?style=flat&logo=microsoft%20excel)](https://www.office.com/excel)
   [![microsoft office badge](https://img.shields.io/badge/Microsoft%20Office-black?style=flat&logo=microsoft)](https://www.office.com/)
   [![microsoft outlook badge](https://img.shields.io/badge/Microsoft%20Outlook-black?style=flat&logo=microsoft%20outlook)](https://www.office.com/outlook)
@@ -99,7 +105,14 @@
 ### Robotics
   [![ros badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
   [![ros2 badge](https://img.shields.io/badge/ROS2-black?style=flat&logo=ros)](https://www.ros.org/)
+  
+---
 
+### Simulations
+  [![AirSim badge](https://img.shields.io/badge/AirSim-black?style=flat&logo=unreal-engine)](https://microsoft.github.io/AirSim/)
+  [![gazebo badge](https://img.shields.io/badge/Gazebo-black?style=flat&logo=gazebo)](http://gazebosim.org/)
+  [![rviz badge](https://img.shields.io/badge/Rviz-black?style=flat&logo=ros)](https://wiki.ros.org/rviz)
+  
 ---
 
 ### Video Conferencing
@@ -111,6 +124,7 @@
 
 ### Virtualization
   [![docker badge](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)](https://www.docker.com/)
+  [![Unreal Engine badge](https://img.shields.io/badge/Unreal%20Engine-black?style=flat&logo=unreal-engine)](https://www.unrealengine.com/)
   [![virtualbox badge](https://img.shields.io/badge/VirtualBox-black?style=flat&logo=virtualbox)](https://www.virtualbox.org)
   
 ---  
