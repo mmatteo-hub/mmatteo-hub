@@ -50,6 +50,7 @@
   [![clion badge](https://img.shields.io/badge/CLion-black?style=flat&logo=clion)](https://www.jetbrains.com/clion/)
   [![colab badge](https://img.shields.io/badge/Google%20Colab-black?style=flat&logo=google-colab)](https://colab.research.google.com/)
   [![MPLAB badge](https://img.shields.io/badge/MPLAB-black?style=flat&logo=microchip)](https://www.microchip.com/mplab)
+  [![NVIDIA badge](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia)](https://www.nvidia.com/)
   [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
   [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
   [![sublime badge](https://img.shields.io/badge/Sublime%20Text-black?style=flat&logo=sublime-text)](https://www.sublimetext.com/)
@@ -86,13 +87,13 @@
 
 ---
 
-### Research Tools
+### Research
   [![latex badge](https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex)](https://www.latex-project.org/)
   [![zotero badge](https://img.shields.io/badge/Zotero-black?style=flat&logo=zotero)](https://www.zotero.org)
 
 ---
 
-### Robotics Tools
+### Robotics
   [![ros badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
   [![ros2 badge](https://img.shields.io/badge/ROS2-black?style=flat&logo=ros)](https://www.ros.org/)
 
