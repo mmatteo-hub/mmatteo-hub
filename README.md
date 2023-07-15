@@ -49,6 +49,7 @@
   [![bash badge](https://img.shields.io/badge/Bash-black?style=flat&logo=gnu-bash)](https://www.gnu.org/software/bash/)
   [![clion badge](https://img.shields.io/badge/CLion-black?style=flat&logo=clion)](https://www.jetbrains.com/clion/)
   [![colab badge](https://img.shields.io/badge/Google%20Colab-black?style=flat&logo=google-colab)](https://colab.research.google.com/)
+  [![Eclipse badge](https://img.shields.io/badge/Eclipse-black?style=flat&logo=eclipse)](https://www.eclipse.org/)
   [![MPLAB badge](https://img.shields.io/badge/MPLAB-black?style=flat&logo=microchip)](https://www.microchip.com/mplab)
   [![NVIDIA badge](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia)](https://www.nvidia.com/)
   [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
