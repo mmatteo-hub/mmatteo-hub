@@ -54,10 +54,12 @@
   [![MPLAB badge](https://img.shields.io/badge/MPLAB-black?style=flat&logo=microchip)](https://www.microchip.com/mplab)
   [![NVIDIA badge](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia)](https://www.nvidia.com/)
   [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
+  [![Quartus II](https://img.shields.io/badge/Quartus%20II-black?style=flat&logo=altera)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
   [![simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=simulink)](https://www.mathworks.com/products/simulink.html)
   [![sublime badge](https://img.shields.io/badge/Sublime%20Text-black?style=flat&logo=sublime-text)](https://www.sublimetext.com/)
   [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
   [![Xcode badge](https://img.shields.io/badge/Xcode-black?style=flat&logo=xcode)](https://developer.apple.com/xcode/)
+  [![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-black?style=flat&logo=xilinx)](https://www.xilinx.com/products/design-tools/vivado.html)
   
 ---
 
@@ -81,6 +83,7 @@
   [![pddl badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=)](https://planning.wiki/guide/whatis/pddl#:~:text=Planning%20Domain%20Definition%20Language%20(PDDL)%20is%20a%20family%20of%20languages,with%20different%20levels%20of%20expressivity.)
   [![pddl+ badge](https://img.shields.io/badge/PDDL+-black?style=flat&logo=)](https://planning.wiki/ref/pddlplus)
   [![react badge](https://img.shields.io/badge/React-black?style=flat&logo=react)](https://reactjs.org/)
+  [![VHDL](https://img.shields.io/badge/VHDL-black?style=flat&logo=vhdl)](https://en.wikipedia.org/wiki/VHDL)
 
 ---
 
@@ -124,6 +127,7 @@
 
 ### Virtualization
   [![docker badge](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)](https://www.docker.com/)
+  [![Parallels Desktop](https://img.shields.io/badge/Parallels%20Desktop-black?style=flat&logo=parallels)](https://www.parallels.com/)
   [![Unreal Engine badge](https://img.shields.io/badge/Unreal%20Engine-black?style=flat&logo=unreal-engine)](https://www.unrealengine.com/)
   [![virtualbox badge](https://img.shields.io/badge/VirtualBox-black?style=flat&logo=virtualbox)](https://www.virtualbox.org)
   
