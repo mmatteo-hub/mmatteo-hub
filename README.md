@@ -100,7 +100,9 @@
 ---
 
 ### Research
+  [![Doxygen](https://img.shields.io/badge/Doxygen-black?style=flat&logo=doxygen)](https://www.doxygen.nl/)
   [![latex badge](https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex)](https://www.latex-project.org/)
+  [![Sphinx](https://img.shields.io/badge/Sphinx-black?style=flat&logo=sphinx)](https://www.sphinx-doc.org/)
   [![zotero badge](https://img.shields.io/badge/Zotero-black?style=flat&logo=zotero)](https://www.zotero.org)
 
 ---
