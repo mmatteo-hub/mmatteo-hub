@@ -72,6 +72,7 @@
 ---
 
 ### Programming Langauges
+  [![Assembly](https://img.shields.io/badge/Assembly-black?style=flat&logo=assembly)](https://en.wikipedia.org/wiki/Assembly_language)
   [![c badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.w3schools.com/c/index.php)
   [![c++ badge](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)](https://www.w3schools.com/cpp/default.asp)
   [![c# badge](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)](https://www.w3schools.com/cs/index.php)
