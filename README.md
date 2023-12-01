@@ -54,7 +54,7 @@
   [![MPLAB badge](https://img.shields.io/badge/MPLAB-black?style=flat&logo=microchip)](https://www.microchip.com/mplab)
   [![NVIDIA badge](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia)](https://www.nvidia.com/)
   [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
-  [![Quartus II](https://img.shields.io/badge/Quartus%20II-black?style=flat&logo=altera)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
+  [![Quartus II badge](https://img.shields.io/badge/Quartus%20II-black?style=flat&logo=altera)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
   [![simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=simulink)](https://www.mathworks.com/products/simulink.html)
   [![sublime badge](https://img.shields.io/badge/Sublime%20Text-black?style=flat&logo=sublime-text)](https://www.sublimetext.com/)
   [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
@@ -72,11 +72,11 @@
 ---
 
 ### Programming Langauges
-  [![Assembly](https://img.shields.io/badge/Assembly-black?style=flat&logo=assembly)](https://en.wikipedia.org/wiki/Assembly_language)
+  [![Assembly badge](https://img.shields.io/badge/Assembly-black?style=flat&logo=assembly)](https://en.wikipedia.org/wiki/Assembly_language)
   [![c badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.w3schools.com/c/index.php)
   [![c++ badge](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)](https://www.w3schools.com/cpp/default.asp)
   [![c# badge](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)](https://www.w3schools.com/cs/index.php)
-  [![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
+  [![CSS badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
   [![html badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
   [![markdown badge](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
@@ -85,7 +85,7 @@
   [![pddl badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=)](https://planning.wiki/guide/whatis/pddl#:~:text=Planning%20Domain%20Definition%20Language%20(PDDL)%20is%20a%20family%20of%20languages,with%20different%20levels%20of%20expressivity.)
   [![pddl+ badge](https://img.shields.io/badge/PDDL+-black?style=flat&logo=)](https://planning.wiki/ref/pddlplus)
   [![react badge](https://img.shields.io/badge/React-black?style=flat&logo=react)](https://reactjs.org/)
-  [![VHDL](https://img.shields.io/badge/VHDL-black?style=flat&logo=vhdl)](https://en.wikipedia.org/wiki/VHDL)
+  [![VHDL badge](https://img.shields.io/badge/VHDL-black?style=flat&logo=vhdl)](https://en.wikipedia.org/wiki/VHDL)
 
 ---
 
@@ -102,9 +102,9 @@
 ---
 
 ### Research
-  [![Doxygen](https://img.shields.io/badge/Doxygen-black?style=flat&logo=doxygen)](https://www.doxygen.nl/)
+  [![Doxygen badge](https://img.shields.io/badge/Doxygen-black?style=flat&logo=doxygen)](https://www.doxygen.nl/)
   [![latex badge](https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex)](https://www.latex-project.org/)
-  [![Sphinx](https://img.shields.io/badge/Sphinx-black?style=flat&logo=sphinx)](https://www.sphinx-doc.org/)
+  [![Sphinx badge](https://img.shields.io/badge/Sphinx-black?style=flat&logo=sphinx)](https://www.sphinx-doc.org/)
   [![zotero badge](https://img.shields.io/badge/Zotero-black?style=flat&logo=zotero)](https://www.zotero.org)
 
 ---
