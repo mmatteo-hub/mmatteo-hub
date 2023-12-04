@@ -5,8 +5,10 @@
 - 🇫🇷 France, 📍 Nantes: Erasmus + traineeship 
 - 👨🏻‍🎓 [Electronics Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor degree
 - 📚 [Robotics Engineering](https://courses.unige.it/10635) Master degree
+- 💼 Data Scientist
+- 📰 A bit more about me [here](https://mmatteo-hub.github.io/resume/)
 - 🔭 I’m currently working on .. something cool
-- 🌱 I’m currently learning ROS and ROS2, Machine Learning an some other interensting stuff
+- 🌱 I’m currently learning new machine learning techniques for some cool results ... 
 - ⚡️ Fun facts: coffee ☕️ lover and Formula 1 🏎 fan
 
 ---
