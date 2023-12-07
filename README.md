@@ -3,8 +3,8 @@
 - 😄 Pronouns: He/Him
 - 🇮🇹 Italy, 📍 Genoa
 - 🇫🇷 France, 📍 Nantes: Erasmus + traineeship 
-- 👨🏻‍🎓 [Electronics Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor degree
-- 📚 [Robotics Engineering](https://courses.unige.it/10635) Master degree
+- 👨🏻‍🎓 [Electronics Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor's degree
+- 📚 [Robotics Engineering](https://courses.unige.it/10635) Master's degree
 - 💼 Data Scientist
 - 📰 A bit more about me [here](https://mmatteo-hub.github.io/resume/)
 - 🔭 I’m currently working on .. something cool
