@@ -85,6 +85,7 @@
   [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
   [![markdown badge](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
   [![python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
+  [![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)](https://openjdk.java.net/)
   [![javascript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![pddl badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=)](https://planning.wiki/guide/whatis/pddl#:~:text=Planning%20Domain%20Definition%20Language%20(PDDL)%20is%20a%20family%20of%20languages,with%20different%20levels%20of%20expressivity.)
   [![pddl+ badge](https://img.shields.io/badge/PDDL+-black?style=flat&logo=)](https://planning.wiki/ref/pddlplus)
