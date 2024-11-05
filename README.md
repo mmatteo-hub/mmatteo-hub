@@ -4,8 +4,9 @@
 - 🇮🇹 Italy, 📍 Genoa
 - 🇫🇷 France, 📍 Nantes: Erasmus + traineeship 
 - 👨🏻‍🎓 [Electronics Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor's degree
-- 📚 [Robotics Engineering](https://courses.unige.it/10635) Master's degree
+- 👨🏻‍🎓 [Robotics Engineering](https://courses.unige.it/10635) Master's degree
 - 💼 Data Scientist
+- 📚 Ph.D. Student in [Science and Technology for Electronic and Telecommunication Engineering](https://corsi.unige.it/en/corsi/11361)
 - 📰 A bit more about me [here](https://mmatteo-hub.github.io/resume/)
 - 🔭 I’m currently working on .. something cool
 - 🌱 I’m currently learning new machine learning techniques for some cool results ... 
