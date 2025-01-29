@@ -49,24 +49,29 @@
 
 ### Development / Version Control
   [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-black?style=flat&logo=azure-devops)](https://azure.microsoft.com/en-us/services/devops/)
-  [![github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://git-scm.com)
   [![bash badge](https://img.shields.io/badge/Bash-black?style=flat&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+  [![github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://git-scm.com)
+  [![gitlab badge](https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab)](https://about.gitlab.com/)
+  [![NVIDIA badge](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia)](https://www.nvidia.com/)
+  [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)](https://pytorch.org/)
+  [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
+  [![simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=simulink)](https://www.mathworks.com/products/simulink.html)
+  [![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow)](https://www.tensorflow.org/)
+
+---
+
+### IDE(s)
   [![clion badge](https://img.shields.io/badge/CLion-black?style=flat&logo=clion)](https://www.jetbrains.com/clion/)
   [![colab badge](https://img.shields.io/badge/Google%20Colab-black?style=flat&logo=google-colab)](https://colab.research.google.com/)
   [![Eclipse badge](https://img.shields.io/badge/Eclipse-black?style=flat&logo=eclipse)](https://www.eclipse.org/)
   [![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat&logo=jupyter)](https://jupyter.org/)
   [![MPLAB badge](https://img.shields.io/badge/MPLAB-black?style=flat&logo=microchip)](https://www.microchip.com/mplab)
-  [![NVIDIA badge](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia)](https://www.nvidia.com/)
-  [![postman badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com/)
-  [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)](https://pytorch.org/)
   [![Quartus II badge](https://img.shields.io/badge/Quartus%20II-black?style=flat&logo=altera)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
-  [![simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=simulink)](https://www.mathworks.com/products/simulink.html)
   [![sublime badge](https://img.shields.io/badge/Sublime%20Text-black?style=flat&logo=sublime-text)](https://www.sublimetext.com/)
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow)](https://www.tensorflow.org/)
   [![vscode badge](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
   [![Xcode badge](https://img.shields.io/badge/Xcode-black?style=flat&logo=xcode)](https://developer.apple.com/xcode/)
   [![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-black?style=flat&logo=xilinx)](https://www.xilinx.com/products/design-tools/vivado.html)
-  
+
 ---
 
 ### Operating System
@@ -84,11 +89,11 @@
   [![c# badge](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)](https://www.w3schools.com/cs/index.php)
   [![CSS badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
   [![html badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)](https://openjdk.java.net/)
+  [![javascript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
   [![markdown badge](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
   [![python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
-  [![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)](https://openjdk.java.net/)
-  [![javascript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![pddl badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=)](https://planning.wiki/guide/whatis/pddl#:~:text=Planning%20Domain%20Definition%20Language%20(PDDL)%20is%20a%20family%20of%20languages,with%20different%20levels%20of%20expressivity.)
   [![pddl+ badge](https://img.shields.io/badge/PDDL+-black?style=flat&logo=)](https://planning.wiki/ref/pddlplus)
   [![react badge](https://img.shields.io/badge/React-black?style=flat&logo=react)](https://reactjs.org/)
